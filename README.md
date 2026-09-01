@@ -2,13 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1230,100:0D1117&height=200&section=header&text=ABHISHEK%20JAIN&fontSize=42&fontColor=00E5FF&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%C2%B7%20DEVOPS%20%26%20CLOUD&descAlignY=58&descColor=B967FF&animation=fadeIn" width="100%" alt="Header"/>
 </div>
 
-█████╗ ██████╗ ██╗ ██╗██╗███████╗██╗ ██╗███████╗██╗ ██╗
-██╔══██╗██╔══██╗██║ ██║██║██╔════╝██║ ██║██╔════╝██║ ██╔╝
-███████║██████╔╝███████║██║███████╗███████║█████╗ █████╔╝
-██╔══██║██╔══██╗██╔══██║██║╚════██║██╔══██║██╔══╝ ██╔═██╗
-██║ ██║██████╔╝██║ ██║██║███████║██║ ██║███████╗██║ ██╗
-╚═╝ ╚═╝╚═════╝ ╚═╝ ╚═╝╚═╝╚══════╝╚═╝ ╚═╝╚══════╝╚═╝ ╚═╝
-
+```
+ █████╗ ██████╗ ██╗  ██╗██╗███████╗██╗  ██╗███████╗██╗  ██╗
+██╔══██╗██╔══██╗██║  ██║██║██╔════╝██║  ██║██╔════╝██║ ██╔╝
+███████║██████╔╝███████║██║███████╗███████║█████╗  █████╔╝ 
+██╔══██║██╔══██╗██╔══██║██║╚════██║██╔══██║██╔══╝  ██╔═██╗ 
+██║  ██║██████╔╝██║  ██║██║███████║██║  ██║███████╗██║  ██╗
+╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Building+automated+cloud+infrastructure;Full-stack+%2B+DevOps+%2B+Applied+AI;Currently+shipping+ChargeIQ;Headed+to+Germany+for+my+Master's" alt="Typing SVG" />
@@ -28,13 +29,13 @@
 
 I'm a solo full-stack developer working across frontend, backend, DevOps, and applied AI — I design the systems, build the pipelines, and ship the interface, end to end.
 
+```
 $ cat focus.txt
-
-Infrastructure that runs itself — CI/CD, containers, IaC
-Interfaces that feel deliberate, not templated
-Currently building: ChargeIQ — an EV route planner for India
-Next up: Master's in Computer Science, Germany — Winter 2026
-
+> Infrastructure that runs itself — CI/CD, containers, IaC
+> Interfaces that feel deliberate, not templated
+> Currently building: ChargeIQ — an EV route planner for India
+> Next up: Master's in Computer Science, Germany — Winter 2026
+```
 
 <table width="100%">
 <tr>
