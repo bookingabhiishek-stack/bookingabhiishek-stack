@@ -1,92 +1,42 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=39FF14&background=0A0A0A00&center=true&vCenter=true&width=800&height=100&lines=%3E+whoami;Abhiishek+Jain;%3E+status;ready_to_collaborate" alt="Terminal SVG" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:14050b,50:200d14,100:3d0b1e&text=%F0%9F%8C%B8%20ABHISHEK%20%F0%9F%8C%B8&height=185&fontSize=40&fontColor=ffb3c1&stroke=ff758f&strokeWidth=2&desc=ZEN%20ENGINEER%20%C2%B7%20CODE%20IS%20HAIKU&descAlignY=66&descColor=ff758f" width="100%" alt="Sakura Banner"/>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=FFB000&center=true&vCenter=true&width=700&lines=Software+Engineer;DevOps+%26+Cloud+Automation;React+%26+ThreeJS+Creative+Developer;Building+robust+pipelines+and+interactive+web+experiences" alt="Typing SVG" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+<table width="100%">
+<tr>
+<td width="55%" valign="middle">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithabhiishek/codewithabhiishek/output/github-contribution-grid-snake-dark.svg?v=7" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithabhiishek/codewithabhiishek/output/github-contribution-grid-snake.svg?v=7" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codewithabhiishek/codewithabhiishek/output/github-contribution-grid-snake.svg?v=7" />
-</picture>
+### 🌸 禅 PHILOSOPHY
+I write code the way a calligrapher wields a brush — deliberate, elegant, and purposeful.
 
----
+- 🌸 **The Way**: Full-stack craftsmanship
+- 🎋 **Current Focus**: **Y2K-Profile** — crafted with patience
+- 🗻 **Core Principle**: *Wabi-sabi* — finding perfection in simplicity
 
-### 💻 About Me
+</td>
+<td width="45%" align="center" valign="middle">
 
-* 🚀 **Focus:** Building secure, automated cloud architectures and interactive web applications.
-* 🛸 **Workspace:** Organizing and building interactive full-stack projects inside my custom `Vibe-Coding` environment.
-* ⚡ **Specialties:** Infrastructure as Code (IaC), CI/CD pipelines, containerization, and clean user interfaces.
-* 🎯 **Objective:** Actively seeking DevOps & Full-Stack engineering internship opportunities.
-* 🎓 **Next Chapter:** Pursuing a Master's in Computer Science in Germany, starting Winter 2026.
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git,bash&theme=dark" alt="Skills" />
+</a>
 
----
+</td>
+</tr>
+</table>
 
-### 🔭 Currently
-
-* 🛠️ Building **ChargeIQ**, an EV route planner for India
-* 🧠 Building **JARVIS**, a personal AI memory assistant
-* 📚 Learning German (targeting B1/B2 for my Master's applications)
+### 🍃 FLOW STATE (TELEMETRY)
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=codewithabhiishek&show_icons=true&hide_border=true&bg_color=200d14&title_color=ff758f&text_color=ffe4e8&icon_color=ff4d6d&border_radius=4" alt="Stats" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=codewithabhiishek&hide_border=true&background=200d14&ring=ff758f&fire=ff4d6d&currStreakLabel=ffb3c1&currStreakNum=ff758f&sideNums=ffe4e8&sideLabels=a86d77&border_radius=4" alt="Streak" height="150"/>
+</div>
 
 ---
 
-### 🛠️ Tech Stack
-
-#### ☁️ Cloud, Infrastructure & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/prometheus-e6522c?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
-
-#### 💻 Programming Languages & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
-
-#### 🗄️ Databases, Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codewithabhiishek&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithabhiishek&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithabhiishek&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithabhiishek&color=ff0080&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
+<div align="center">
+  <a href="mailto:codewithabhiishek@developer.mail"><img src="https://img.shields.io/badge/EMAIL-ff758f?style=for-the-badge&logo=gmail&logoColor=14050b"/></a>
+  <a href="https://github.com/codewithabhiishek"><img src="https://img.shields.io/badge/GITHUB-200d14?style=for-the-badge&logo=github&logoColor=ff758f"/></a>
+  <a href="https://linkedin.com/in/codewithabhiishek"><img src="https://img.shields.io/badge/LINKEDIN-ffb3c1?style=for-the-badge&logo=linkedin&logoColor=14050b"/></a>
+</div>
+<div align="center"><sub>🌸 @codewithabhiishek · 静寂 (seijaku) · crafted with intention 🌸</sub></div>
